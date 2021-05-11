@@ -1,6 +1,6 @@
 <html>
 <body>
 <h1>lol</h1>
-<p>jk i dont have contact info.</p>
+<p>jk no art yet. xP</p>
 </body>
 </html>
